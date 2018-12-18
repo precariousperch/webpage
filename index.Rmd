@@ -1,6 +1,6 @@
 ---
 title: "My Website"
-author: "Your Name"
+author: "Mad Pertsch"
 date: "Last updated on `r Sys.Date()`"
 output:
   html_document:
@@ -18,6 +18,7 @@ Comments in HTML are like this!
 Hello, Website!
 
 # My first section
+This is my brand new webpage for SDS 192. It is December.
 
 ```{r}
 library(ggplot2)
